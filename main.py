@@ -117,3 +117,6 @@ if cliente:
     print(f"{cliente.id} - {cliente.nome} - {cliente.email} - {cliente.senha}")
 else: 
     print("Cliente não encontrado.")
+
+# FECHANDO CONEXÃO COM BANCO DE DADOS 
+session.close()
