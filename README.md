@@ -3,10 +3,10 @@
 # Objetivo:
 criar conexão com banco de Dados e realizar operações básicas (CRUD)
 
-### Tecnologia:
+### 🚀 Tecnologia:
 - ORM : SQLAlchemy 
 - Banco de Dados : SQLite 
 
-### Detalhes: 
+### 🖥️ Detalhes: 
 Criando conexão com banco de Dados SQLite, usando o SQLAlchemy como 
 ferramenta ORM para interação com banco de dados
